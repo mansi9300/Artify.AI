@@ -1,45 +1,22 @@
-# Fastest-Text-to-Image-Generator
-Fastest Text-to-Image Generator using fal ai.
 
 
+## Artify.AI
+Artify.AI is a cutting-edge text-to-image generation tool powered by artificial intelligence. Users can input text prompts, and the AI generates high-quality images based on the descriptions provided. Whether you're creating visuals for projects, enhancing your creative workflow, or exploring AI-generated art, Artify.AI provides an intuitive and fast solution.
 
-## Prerequisites:  
-[Fal AI](https://fal.ai/) API key (for model access)  
+## Features
+Text-to-Image Generation: Enter any text prompt, and the AI will generate a high-quality image.
+Fast Processing: Leveraging advanced AI algorithms to generate images quickly.
+Easy-to-Use Interface: Clean and simple UI for smooth interaction with the tool.
+Customizable Settings: Tailor the AI’s style and output to suit your needs.
 
+## Technologies Used
+React.js: Front-end framework for building the user interface.
+Node.js: Back-end environment for managing the AI API and server-side operations.
+AI Model: The core AI engine that generates images based on text prompts (likely using models like OpenAI's DALL·E or similar).
+Vite: Build tool for fast and optimized development and production.
 
-
-## Getting Started :white_check_mark:  
-To get started with this project, you'll need to clone the repository and have [Node]((https://nodejs.org/en/download) installed on your system.  
-
-  
-### Cloning the Repository :inbox_tray:
-Run the following command to clone the repository:  
-
-```
-git clone https://github.com/ChatTeach/Fastest-Text-to-Image-Generator.git
-```
-
-### Install Dependencies :wrench: 
-Navigate to the project directory:
-```
-cd Fastest-Text-to-Image-Generator
-```
-
-Install the dependencies:
-```
-npm install -i
-```
-## Running the Application :rocket:
-To run the application, run the following command:
-```
-npm run dev
-```
-
-Access the application in your browser using the URL:
-```
-http://127.0.0.1:3000
-```
-or
-```
-http://localhost:3000
-```
+## Usage
+Open the Artify.AI application in your browser.
+Type in a text prompt describing the image you'd like the AI to generate.
+Hit Generate and let the AI do its magic.
+Download the generated image or use it in your creative projects.
